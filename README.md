@@ -1,37 +1,14 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+PROJECT UAS CLOUD COMPUTING 2024
 
-![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
+Wangsa Reisyah Fatahillah & Mohammad Aprizal
 
-[Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
+PROJECT CHAT FLARE
 
-Some Features:
+Halaman Login
+![image](https://github.com/user-attachments/assets/65d0bd0d-0529-414d-84d4-abeae5ee49b3)
 
--   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
--   🎃 Authentication && Authorization with JWT
--   👾 Real-time messaging with Socket.io
--   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
--   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
+Halaman Sign Up
+![image](https://github.com/user-attachments/assets/709dc7f6-58d3-4242-b466-12c39344bcf0)
 
-### Setup .env file
-
-```js
-PORT=...
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
-```
-
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
+Halaman Home
+![image](https://github.com/user-attachments/assets/c9d7a6c7-6e3a-40ee-8bc3-2197b132e338)
